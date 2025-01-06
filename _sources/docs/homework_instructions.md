@@ -5,10 +5,9 @@ Check out [Gradescope Student Guide](https://lthub.ubc.ca/guides/gradescope-stud
 
 ## Accessing homework assignments
 
-Each homework assignment will be made available on the [course GitHub page](https://github.com/UBC-CS/cpsc330-2024W1?tab=readme-ov-file#deliverable-due-dates-tentative) under the "Where to find?" column under the "Deliverable due dates" section.
+Each homework assignment will be made available on the [course GitHub page](https://github.students.cs.ubc.ca/CPSC330-2024W-T2/cpsc330-2024W2/tree/main?tab=readme-ov-file#deliverable-due-dates-tentative) under the "Where to find?" column under the "Deliverable due dates" section.
 You can also find the list of released (public) repositories [here](https://github.com/orgs/ubc-cpsc330/repositories).
 
-Once the repository is ready, we'll make an announcement on Piazza.
 Your homework assignment will generally consist of a Jupyter notebook along with necessary code and data or links to download the data.
 You will have to setup your computer so that you can work on these assignments locally.
 See this document for [setup instructions](setup.md).
@@ -95,11 +94,9 @@ In most assignments, you will be asked to produce plots/figures. When including 
 
 ## Late submissions
 
-By default late submissions will not be accepted.
-The rationale is that we will be posting the solutions shortly after the assignment deadline, and we cannot accept submissions after the solutions are posted. 
-This is not ideal, but I believe the overall policy is best for the class as a whole.
+Some flexibility in the assignment submissions is allowed through the use of late tokens (see [Late policy](https://github.students.cs.ubc.ca/CPSC330-2024W-T2/cpsc330-2024W2/blob/main/syllabus.md#assignments) in the syllabus). <!--**Outside what is allowed by the late policy, late submissions will not be accepted.** The rationale is that we will be posting the solutions shortly after the assignment deadline, and we cannot accept submissions after the solutions are posted.--> 
 
-_In exceptional circumstances_ a late submission may be accepted with an academic concession - see [here](https://github.com/UBC-CS/cpsc330-2024W1/blob/main/syllabus.md#academic-concessions) for more info.
+_In exceptional circumstances_ (typically issues of longer duration and impact) other accomodations may be provided through an academic concession - see [here](https://github.com/UBC-CS/cpsc330-2024W1/blob/main/syllabus.md#academic-concessions) for more info.
 
 ## Updates to assignments
 
@@ -107,5 +104,5 @@ If there are errors or other changes that need to be made to an assignment, I wi
 
 ## Citing sources
 
-If you use information from students outside your group or from online sources _including code snippets from Stack Overflow_ or lecture notes, cite this at the start of each question. **You will receive a mark of 0 for the assignment (and possibly other consequences) if you are found copying from other sources without citation**.
+If you use information from students outside your group or from online sources _including code snippets from Stack Overflow or AI generated_ or lecture notes, cite this at the start of each question. **You will receive a mark of 0 for the assignment (and possibly other consequences) if you are found copying from other sources without citation**.
 

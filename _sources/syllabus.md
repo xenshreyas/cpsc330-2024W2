@@ -1,11 +1,5 @@
 # Syllabus 
 
-- [CPSC 330 101 2024W UBC course URL](https://www.cs.ubc.ca/course-section/cpsc-330-101-2024w)
-
-- [CPSC 330 102 2024W UBC course URL](https://www.cs.ubc.ca/course-section/cpsc-330-102-2024w)
-
-- [CPSC 330 103 2024W UBC course URL](https://www.cs.ubc.ca/course-section/cpsc-330-103-2024w)
-
 
 ## Course description
 
@@ -18,11 +12,14 @@ Application of machine learning tools, with an emphasis on solving practical pro
 
 | Section      | Day     | Time                | Location              |
 |--------------|---------|---------------------|-----------------------|
-| CPSC 330 101 | Tue/Thu | 3:30 - 4:50 PM      | SWNG-Floor 2-Room 222 |
-| CPSC 330 102 | Tue/Thu | 11:00 AM - 12:20 PM | SWNG-Floor 2-Room 222 |
-| CPSC 330 103 | Tue/Thu | 5:00 - 6:20 PM      | SWNG-Floor 2-Room 222 |
+| CPSC 330 201 | Tue/Thu | 9:30 - 10:50 AM     | SWNG-Room 222         |
+| CPSC 330 202 | Tue/Thu | 3:30 - 4:50 PM      | MCML-Room 360         |
+| CPSC 330 203 | Tue/Thu | 5:00 - 6:20 PM      | MCML-Room 360         |
+| CPSC 330 204 | Tue/Thu | 11:00 AM - 12:20 PM | GEOG-Room 212         |
 
 **Tutorials**:
+
+**To be updated**
 
 | Section      | Day      | Time                | Location               |
 |--------------|----------|---------------------|------------------------|
@@ -38,46 +35,35 @@ Application of machine learning tools, with an emphasis on solving practical pro
 | CPSC 330 T1K | Friday   | 11:00 AM - 12:00 PM | MCLD-Floor 2-Room 2018 |
 | CPSC 330 T1L | Thursday | 9:00 - 10:00 AM     | ORCH-Floor 4-Room 4074 |
 
-Tutorials for this course will be conducted by TAs and follow an office hours format. Attendance at tutorials is optional. However, participating will allow you to engage in more personalized discussions with TAs, providing you with valuable one-on-one time and an opportunity to deepen your understanding of machine learning concepts. 
+Tutorials for this course will be conducted by TAs, who will guide you through additional exercises and demos on the content covered each week. Attendance to tutorials is not counted toward your final grade, but is expected to succeed in the course. Participating will allow you to see more examples than what it is possible to cover in class, engage in more personalized discussions with TAs, and providing you with valuable one-on-one time to deepen your understanding of machine learning concepts. 
 
-For office hours, please refer to the [Calendar](https://htmlpreview.github.io/?https://github.com/UBC-CS/cpsc330/blob/master/docs/calendar.html). 
 
 ## Teaching Team
 
 **Instructors**: 
 
-- [Firas Moosvi](https://firas.moosvi.com/), OH: Wednesday 1:30 - 2:30, ICCS 253
-- [Giulia Toti](https://www.gtoti.com/), OH: Monday, 2:00 - 3:15 PM, ICCS 231
-- [Varada Kolhatkar](https://kvarada.github.io/), OH: Thursdays, 2:00 - 3:00 PM, ICCS 237
+- [Mathias Lécuyer](https://mathias.lecuyer.me/), OH: Thursday, 11:30-12:30, ICCS 317
+- [Giulia Toti](https://www.gtoti.com/), OH: Tuesday, 2:00 - 3:15 PM, ICCS 231
+- [Andrew Roth], OH: Tuesday, 12:30-1:30 PM, ICCS 359
 
 ### Course co-ordinator
-- Devyani McLaren (cpsc330-admin@cs.ubc.ca), please reach out to Devyani for: admin questions, extensions, academic concessions etc. 
+- Ancuta (Anca) Barbu (cpsc330-admin@cs.ubc.ca), please reach out to Anca for: admin questions, extensions, academic concessions etc. Include a descriptive subject, your name and student number, and course section so that we can keep track of emails.
 
 ### TAs
-- Akash Adhikary	
-- Amirali Goodarzvand Chegini	
-- Aryan Ballani	
-- Atabak Eghbal	
-- Derrick Cheng
-- Frederick Sunstrum	
-- Hongkai Liu	
-- Noah Marusenko	
-- Jialin (Mike) Lu	
-- Kimia Rostin	
-- Mahsa Zarei	
-- Mike Ju
-- Mishaal Kazmi
-- Rubia Reis Guerra	
-- Shadab Shaikh	
-- Sohbat Sandhu
-- Stash Currie	
-- Tianyu (Niki) Duan	
+**To be filled, I just kept the recurring ones**
+
+- Amirali Goodarzvand Chegini
+- Frederick Sunstrum
+- Kimia Rostin
+- Tianyu (Niki) Duan
 
 ## Registration
 
 **Waitlists**:
 
 The general seats available in this class usually fill up very quickly. Once the general seats are taken, the only way to register for the course is to sign up for the waiting list. For questions about the waiting list policies, see [here](https://www.cs.ubc.ca/students/undergrad/courses/waitlists). You should sign up for the waiting list even if it is long; a lot of students tend to drop courses. Signing up for the waiting list also makes it more likely that we will open up extra sessions, expand class sizes, or offer additional courses on these topics. The instructors have no control over the situation and I cannot help you bypass the waiting list.
+
+**Because all course material is available to all students, including those on the waitlist, throught this repository, all students are expected to complete all the assignments by the assigned deadline, independently on the date on which they joined the course.** The course moves at a fast pace and the first weeks cover fundamental concepts that will serve you for the entire semester - you do not want to miss them or find yourself racing to catch up. 
 
 **Prerequisites**: The official prerequisites can be found [here](https://courses.students.ubc.ca/cs/courseschedule?tname=subj-course&course=330&campuscd=UBC&dept=CPSC&pname=subjarea). If you do not meet the prerequisites, see [here](https://www.cs.ubc.ca/students/undergrad/courses-deadlines/prerequisites) and [here](https://www.cs.ubc.ca/students/undergrad/courses-deadlines/rules-about-cpsc-appeals-undergraduate-students). We were told that students should not visit the front desk in the CS main office about prerequisite issues, because the folks at the front desk do not have the authority to resolve prerequisite issues.
 
@@ -91,24 +77,27 @@ The grading scheme for the course is as follows:
 
 | Component              | Weight | Location                                              |
 |------------------------|--------|-------------------------------------------------------|
-| Syllabus quiz          | 1%     | [PrairieLearn](https://us.prairielearn.com/pl/course_instance/163899/assessment/2451488)        |
-| iClicker participation | 5%     | [iClicker Cloud](https://join.iclicker.com/VYFJ)                                    |
-| Assignments            | 22%    | [Gradescope](https://www.gradescope.ca/courses/18608) |
-| Midterm 1              | 21%    | PrairieLearn |
-| Midterm 2              | 21%    | PrairieLearn |
-| Final                  | 30%    | PrairieLearn |
+| Syllabus quiz          | 1%     | [PrairieLearn](https://us.prairielearn.com/pl/course_instance/172119/assessment/2494388)        |
+| iClicker participation | 5%     | iClicker Cloud                                        |
+| Assignments            | 22%    | [Gradescope](https://www.gradescope.ca/courses/23876) |
+| Midterm 1              | 21%    | PrairieLearn (CBTF) |
+| Midterm 2              | 21%    | PrairieLearn (CBTF) |
+| Final                  | 30%    | PrairieLearn (CBTF) |
 
 ### iClicker 
 
 The iClicker participation grade will mainly consider your engagement rather than the accuracy of your responses. Nevertheless, these questions are intended to facilitate your learning, so please make an earnest effort when providing your answers. 
 
+To join the iClicker corresponding to your section, use the following links:
+- Section 201: [https://join.iclicker.com/FUYI](https://join.iclicker.com/FUYI)
+- Section 202/203: [https://join.iclicker.com/RITY](https://join.iclicker.com/RITY)
+- Section 204: [https://join.iclicker.com/HTRZ](https://join.iclicker.com/HTRZ)
+
 ### Assignments
 
-The plan is that most of the assignments will contribute equally towards the overall Assignments grade.
-<!-- However, this is not finalized yet.
-For example, the last assignment ends up particularly short or long due to timing. -->
+The plan is that most of the assignments will contribute equally towards the overall Assignments grade, but changes to reflect particularly long or short assignments may be possible.
 We will drop your lowest homework grade. 
-<!--**By default late submissions will not be accepted.** The rationale is that we will be posting the solutions shortly after the assignment deadline, and we cannot accept submissions after the solutions are posted. I do not like this, but I believe the overall policy is best for the class as a whole.--> 
+Some flexibility in the assignment submissions is allowed (see **Late policy** below). <!--**Outside what is allowed by the late policy, late submissions will not be accepted.** The rationale is that we will be posting the solutions shortly after the assignment deadline, and we cannot accept submissions after the solutions are posted.--> 
 See [this document](docs/homework_instructions.md) for more detailed instructions on submitting homework assignments.
 
 For the full policy on grades, see [this document](docs/grades.md). We understand that grades are important for you for several reasons. But try not to focus too much on them. You will have a better learning experience and in general, you'll be happier in life if you focus more on learning the material well. 
@@ -117,12 +106,13 @@ For the grading scheme we wish we could use [this](https://youtu.be/HdHlfiOAJyE?
 **Late policy**
 
 Assignments will be due at 11:59 PM on the due date.
-If you cannot make this due date, you may use a "late token".
-Each student will have 4 late tokens for the entire semester, we will track them on PrairieLearn.
+If you cannot make this due date, you may use a "late token", for example:
 
-For example, if assignment is due on a Monday at 11:59 pm:
+If assignment is due on a Monday at 11:59 pm:
 - Handing it anytime on Tuesday will cost you 1 late token (irrespective of whether it's a holiday).
 - Handing it anytime on Wednesday will cost you 2 late tokens (irrespective of whether it's a holiday).
+
+Each student will have 4 late tokens for the entire semester. We will track their use and no action is required on your end, just be aware of when you happen to spend your tokens as result of a late submission and keep track of how many you have left.
 
 There is no penalty for using "late tokens", but you will get a mark of 0 on an assignment if you:
 - Use more than 2 late tokens on the assignment.
@@ -134,13 +124,13 @@ We will post solutions 48-hours after the due date.
 
 ### Lecture recordings 
 
-This is an in-person class, and we do not livestream or make recordings available by default. If you miss a class, you can catch up by reviewing the lecture notes and talking to your peers. Section 102 lectures (11 am to 12:20 am) are being recorded, but the recordings are not shared widely. Typically, the backs of students sitting in the first three to four rows may appear in the recording. If you prefer not to be recorded, please avoid sitting in those rows. When recordings are available, instructors may grant access to students who were absent for approved reasons only (e.g., illness, jury duty, etc.).
+This is an in-person class, and we do not livestream or make recordings available by default. If you miss a class, you can catch up by reviewing the lecture notes and associated videos, and talking to your peers. 
 
 ### Use of AI in the course
 
 Use of AI-based content generation tools, or AI tools, is permitted for assignments and project work in CPSC 330. It is not allowed during midterms and the final exams. 
 
-Additionally, students are required to disclose any use of AI tools for each assignment. This includes
+Additionally, **students are required to disclose any use of AI tools for each assignment.** This includes
 - Referencing the tool used
 - Including any prompts used to query
 - Including the output of the prompts and a discussion of if/how you modified the result
@@ -149,12 +139,12 @@ Failure to follow this policy will be considered a violation of UBC's academic p
 
 When using AI tools for your assignments, be mindful of their impact on your learning. Consider carefully whether they are improving or hindering your learning, and make a conscious decision about their use. 
 
-### Midterm
+### Midterms
 
-Check the [Calendar](https://htmlpreview.github.io/?https://github.com/UBC-CS/cpsc330/blob/master/docs/calendar.html) for midterm dates.
-
-There will be two midterms in CPSC 330 and both of them will be conducted in the CBTF via self-reservation over a two-day period.
+There will be two midterms in CPSC 330 and both of them will be conducted in the CBTF via self-reservation over a three-day period.
 The CBTF (computer based testing facility) is designed to enhance the student’s writing experience by providing them with a familiar, secure testing environment with quick access to technical support, as well as support from their instructor for common access issues.
+
+Closer to the midterm dates, the instructors will communicate more details regarding the exam content, how to register for a time slot, what to do in case it is not possible to take the exam, and other relevant information. In general, **students are expected to take the exam during their registered slot.** Seats are limited and if you miss your registered slot it may not be possible to provide an alternative time, unless it is for a serious, documented reason. If something prevents you from attending one of the midterms, contact the course coordinator immediately.
 
 #### Centre for Accessibility (CfA) Exam Accommodations
 
@@ -170,11 +160,10 @@ If you have an accommodation that is not listed above, you will write your asses
 
 For more information, [please see the CBTF page](https://cbtf.ubc.ca/students/accommodations).
 
-<!-- TODO: Write about midterm exam policy.  -->
 
 ### Final exam
 
-The final exam is scheduled for the exam period and is likely to be comprehensive, covering the material taught over the course of the semester.
+The final exam is scheduled for the exam period and is likely to be comprehensive, covering the material taught over the course of the semester. **A score of 40% or more in the final exam is required to pass the course.**
 
 ## Academic concessions
 
@@ -183,6 +172,10 @@ UBC has a [policy on academic concession](https://students.ubc.ca/enrolment/acad
 
 ## Code of conduct
 
+This course follows the departmental policy available here: https://my.cs.ubc.ca/docs/collaboration-plagiarism. If you are not sure whether or not what you plan to do constitutes academic misconduct, consult the policy, an instructor or the course coordinator.
+
+In general, the following is expected:
+- Do not submit work that you did not authored. If portions of code are being reused, declare all sources.
 - If you plan to engage in non-course-related activity in lecture (Facebook, YouTube, chatting with friends, etc), please sit in the last two rows of the room to avoid distracting your classmates.
 - Do not distribute any course materials (slides, homework assignments, solutions, notes, etc.) without permission.
 - Do not photograph or record lectures (audio or video) without permission.
