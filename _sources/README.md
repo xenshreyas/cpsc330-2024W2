@@ -33,7 +33,7 @@ Software licensed under [the MIT License](https://spdx.org/licenses/MIT.html), n
 ## Important links
 
 * [Course GitHub page](https://github.students.cs.ubc.ca/CPSC330-2024W-T2/cpsc330-2024W2)
-* [Course Jupyter book]()
+* [Course Jupyter book](ubc-cs.github.io/cpsc330-2024W2/)
 * [Canvas](https://canvas.ubc.ca/courses/153207)
 * Piazza or Ed?
 * [Gradescope](https://www.gradescope.ca/courses/23876) **For first time access, go through Canvas link**
