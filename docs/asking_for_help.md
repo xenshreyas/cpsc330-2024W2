@@ -15,7 +15,7 @@ When you post questions on Piazza:
     - Don't ask for help after being stuck for only 10 seconds. Make a reasonable effort to solve your problem.
    - On the other hand, don't wait until after 5 hours of painful debugging before asking a question. At some point, this just becomes time wasted. This can be exceptionally frustrating if it turns out there was a bug in the assignment (it happens!).
    - **As a very rough general guideline, try to work on something for 20-30 minutes and then ask for help.**  
-- Avoid including answers or partial answers in your question/post.
+- Do not include answers or partial answers in public posts.
 - If you have a code problem, include as much relevant information as possible like:
   - your version of Python and relevant libraries
   - your operating system
@@ -23,7 +23,8 @@ When you post questions on Piazza:
   - the entire error message
   - Try to make the error reproducible and understandable
       - Include the exact command you used to run the code.
-      - Include the entire error traceback, or at the very least the part showing the line number and error message.  
+      - Include the entire error traceback, or at the very least the part showing the line number and error message.
+  - Ultimately, consider that complicated code-related issues are difficult to solve via message board and it is recommended to get in person help during office hours. 
 - If you post a question and then figure out the answer yourself, please do not delete the question. It's still useful. Ideally, you'd post the answer to your own question for others to benefit.     
 - When using equations, write them in LaTeX syntax and surround them with two dollar-signs. For example `$$2^x$$` will render nicely in Piazza.
 
