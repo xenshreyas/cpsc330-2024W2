@@ -19,8 +19,6 @@ Application of machine learning tools, with an emphasis on solving practical pro
 
 **Tutorials**:
 
-**To be updated**
-
 | Section      | Day      | Time                | Location               |
 |--------------|----------|---------------------|------------------------|
 | CPSC 330 T2A | Friday   | 9:00 - 10:00 AM     | ORCH-Room 4018
@@ -53,7 +51,6 @@ Tutorials for this course will be conducted by TAs, who will guide you through a
 - Ancuta (Anca) Barbu (cpsc330-admin@cs.ubc.ca), please reach out to Anca for: admin questions, extensions, academic concessions etc. Include a descriptive subject, your name and student number, and course section so that we can keep track of emails.
 
 ### TAs
-**To be filled, I just kept the recurring ones**
 
 - Amirali Goodarzvand Chegini
 - Frederick Sunstrum
