@@ -17,11 +17,26 @@ The syllabus is available [here](syllabus.md). Please read it carefully to under
 - Ancuta (Anca) Barbu (cpsc330-admin@cs.ubc.ca), please reach out to Anca for: admin questions, extensions, academic concessions etc. Include a descriptive subject, your name and student number, and course section so that we can keep track of emails.
 
 ### TAs
-**To be filled, I just kept the recurring ones**
-- Amirali Goodarzvand Chegini	
+
+- Amirali Goodarzvand Chegini
 - Frederick Sunstrum
-- Kimia Rostin 
+- Kimia Rostin
 - Tianyu (Niki) Duan
+- Abdelrahman Ahmed
+- Maissan Bazazeh
+- Gaurav Bhatt
+- Patrick Cui
+- Neo Ghassemi
+- Alison Hardy
+- Mishaal Kazmi
+- Zefeng Li
+- Yifei Li
+- Harry Wang
+- Allya Wellyanto
+- Yan Zeng
+- Alain Zhiyanov
+- Mahsa Zarei
+
 
 
 ## License
