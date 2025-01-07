@@ -59,6 +59,20 @@ Tutorials for this course will be conducted by TAs, who will guide you through a
 - Frederick Sunstrum
 - Kimia Rostin
 - Tianyu (Niki) Duan
+- Abdelrahman Ahmed
+- Maissan Bazazeh
+- Gaurav Bhatt
+- Patrick Cui
+- Neo Ghassemi
+- Alison Hardy
+- Mishaal Kazmi
+- Zefeng Li
+- Yifei Li
+- Harry Wang
+- Allya Wellyanto
+- Yan Zeng
+- Alain Zhiyanov
+- Mahsa Zarei
 
 ## Registration
 
