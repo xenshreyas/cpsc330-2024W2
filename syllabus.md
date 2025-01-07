@@ -36,6 +36,8 @@ Application of machine learning tools, with an emphasis on solving practical pro
 Tutorials for this course will be conducted by TAs, who will guide you through additional exercises and demos on the content covered each week. Attendance to tutorials is not counted toward your final grade, but is expected to succeed in the course. Participating will allow you to see more examples than what it is possible to cover in class, engage in more personalized discussions with TAs, and providing you with valuable one-on-one time to deepen your understanding of machine learning concepts. 
 
 **Office hours**:
+| Day      | Time                | Location               |
+|----------|---------------------|------------------------|
 | Tuesday  | 9:00 - 10:00 AM     | ORCH-Floor 3 -Room 3018|
 | Tuesday  | 10:00 - 11:00 AM    | SWNG Room 405          |
 | Tuesday  | 01:00 - 02:00 PM    | ORCH-Floor 4 -Room 4074|         
