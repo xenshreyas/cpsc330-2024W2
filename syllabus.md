@@ -23,17 +23,20 @@ Application of machine learning tools, with an emphasis on solving practical pro
 
 | Section      | Day      | Time                | Location               |
 |--------------|----------|---------------------|------------------------|
-| CPSC 330 T1A | Friday   | 9:00 - 10:00 AM     | DMP-Floor 2-Room 201   |
-| CPSC 330 T1B | Friday   | 11:00 AM - 12:00 PM | DMP-Floor 1-Room 101   |
-| CPSC 330 T1C | Friday   | 2:00 - 3:00 PM      | MCLD-Floor 3-Room 3002 |
-| CPSC 330 T1D | Friday   | 3:00 - 4:00 PM      | DMP-Floor 1-Room 101   |
-| CPSC 330 T1E | Thursday | 5:00 - 6:00 PM      | MCML-Floor 1-Room 158  |
-| CPSC 330 T1F | Thursday | 1:00 - 2:00 PM      | MCLD-Floor 3-Room 3008 |
-| CPSC 330 T1G | Thursday | 2:00 - 3:00 PM      | ORCH-Floor 4-Room 4018 |
-| CPSC 330 T1H | Thursday | 10:00 - 11:00 AM    | MCLD-Floor 3-Room 3014 |
-| CPSC 330 T1J | Friday   | 10:00 - 11:00 AM    | MCLD-Floor 3-Room 3014 |
-| CPSC 330 T1K | Friday   | 11:00 AM - 12:00 PM | MCLD-Floor 2-Room 2018 |
-| CPSC 330 T1L | Thursday | 9:00 - 10:00 AM     | ORCH-Floor 4-Room 4074 |
+| CPSC 330 T2A | Friday   | 9:00 - 10:00 AM     | ORCH-Room 4018
+| CPSC 330 T2B | Friday   | 10:00 - 11:00 AM    | ORCH-Room 3018         |
+| CPSC 330 T2C | Friday   | 12:00 - 01:00 PM    | DMP-Room 201           |
+| CPSC 330 T2D | Friday   | 01:00 - 02:00 PM    | DMP-Room 201           |
+| CPSC 330 T2E | Friday   | 03:00 - 04:00 PM    | DMP-Room 201           |
+| CPSC 330 T2F | Friday   | 02:00 - 03:00 PM    | DMP-Room 101           |
+| CPSC 330 T2G | Thursday | 05:00 - 06:00 PM    | MCLD-Room 2012         |
+| CPSC 330 T2H | Friday   | 11:00 - 12:00 PM    | MCLD-Room 2012         |
+| CPSC 330 T2I | Thursday | 01:00 - 02:00 PM    | DMP-Room 101           |
+| CPSC 330 T2J | Thursday | 02:00 - 03:00 PM    | DMP-Room 101           |
+| CPSC 330 T2K | Thursday | 03:00 - 04:00 PM    | SWNG Room 409          |
+| CPSC 330 T2L | Tuesday  | 9:00 - 10:00 AM     | ORCH-Floor 3 -Room 3018|
+| CPSC 330 T2M | Tuesday  | 10:00 - 11:00 AM    | SWNG Room 405          |
+| CPSC 330 T2N | Tuesday  | 01:00 - 02:00 PM    | ORCH-Floor 4 -Room 4074|         
 
 Tutorials for this course will be conducted by TAs, who will guide you through additional exercises and demos on the content covered each week. Attendance to tutorials is not counted toward your final grade, but is expected to succeed in the course. Participating will allow you to see more examples than what it is possible to cover in class, engage in more personalized discussions with TAs, and providing you with valuable one-on-one time to deepen your understanding of machine learning concepts. 
 
