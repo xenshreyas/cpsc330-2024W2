@@ -666,7 +666,7 @@
 <h4>Predicting on unseen data using the trained model<a class="headerlink" href="#predicting-on-unseen-data-using-the-trained-model" title="Link to this heading">#</a></h4>
 <div class="cell docutils container">
 <div class="cell_input docutils container">
-<div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="n">pd</span><span class="o">.</span><span class="n">DataFrame</span><span class="p">(</span><span class="n">X_test</span><span class="p">[</span><span class="mi">0</span><span class="p">:</span><span class="mi">4</span><span class="p">])</span>
+<div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="n">pd</span><span class="o">.</span><span class="n">DataFrame</span><span class="p">(</span><span class="n">X_test</span><span class="p">[</span><span class="mi">1</span><span class="p">:</span><span class="mi">4</span><span class="p">])</span>
 </pre></div>
 </div>
 </div>
@@ -694,10 +694,6 @@
   </thead>
   <tbody>
     <tr>
-      <th>3245</th>
-      <td>Funny fact Nobody teaches volcanoes 2 erupt, tsunamis 2 arise, hurricanes 2 sway aroundn no 1 teaches hw 2 choose a wife Natural disasters just happens</td>
-    </tr>
-    <tr>
       <th>944</th>
       <td>I sent my scores to sophas and i had to do secondary application for a few schools. I think if you are thinking of applying, do a research on cost also. Contact joke ogunrinde, her school is one m...</td>
     </tr>
@@ -720,8 +716,8 @@
 <div class="cell docutils container">
 <div class="cell_input docutils container">
 <div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="n">pred_dict</span> <span class="o">=</span> <span class="p">{</span>
-    <span class="s2">&quot;sms&quot;</span><span class="p">:</span> <span class="n">X_test</span><span class="p">[</span><span class="mi">0</span><span class="p">:</span><span class="mi">4</span><span class="p">],</span>
-    <span class="s2">&quot;spam_predictions&quot;</span><span class="p">:</span> <span class="n">clf</span><span class="o">.</span><span class="n">predict</span><span class="p">(</span><span class="n">X_test</span><span class="p">[</span><span class="mi">0</span><span class="p">:</span><span class="mi">4</span><span class="p">]),</span>
+    <span class="s2">&quot;sms&quot;</span><span class="p">:</span> <span class="n">X_test</span><span class="p">[</span><span class="mi">1</span><span class="p">:</span><span class="mi">4</span><span class="p">],</span>
+    <span class="s2">&quot;spam_predictions&quot;</span><span class="p">:</span> <span class="n">clf</span><span class="o">.</span><span class="n">predict</span><span class="p">(</span><span class="n">X_test</span><span class="p">[</span><span class="mi">1</span><span class="p">:</span><span class="mi">4</span><span class="p">]),</span>
 <span class="p">}</span>
 <span class="n">pred_df</span> <span class="o">=</span> <span class="n">pd</span><span class="o">.</span><span class="n">DataFrame</span><span class="p">(</span><span class="n">pred_dict</span><span class="p">)</span>
 <span class="n">pred_df</span><span class="o">.</span><span class="n">style</span><span class="o">.</span><span class="n">set_properties</span><span class="p">(</span><span class="o">**</span><span class="p">{</span><span class="s2">&quot;text-align&quot;</span><span class="p">:</span> <span class="s2">&quot;left&quot;</span><span class="p">})</span>
@@ -730,38 +726,33 @@
 </div>
 <div class="cell_output docutils container">
 <div class="output text_html"><style type="text/css">
-#T_eaaa1_row0_col0, #T_eaaa1_row0_col1, #T_eaaa1_row1_col0, #T_eaaa1_row1_col1, #T_eaaa1_row2_col0, #T_eaaa1_row2_col1, #T_eaaa1_row3_col0, #T_eaaa1_row3_col1 {
+#T_87852_row0_col0, #T_87852_row0_col1, #T_87852_row1_col0, #T_87852_row1_col1, #T_87852_row2_col0, #T_87852_row2_col1 {
   text-align: left;
 }
 </style>
-<table id="T_eaaa1">
+<table id="T_87852">
   <thead>
     <tr>
       <th class="blank level0" >&nbsp;</th>
-      <th id="T_eaaa1_level0_col0" class="col_heading level0 col0" >sms</th>
-      <th id="T_eaaa1_level0_col1" class="col_heading level0 col1" >spam_predictions</th>
+      <th id="T_87852_level0_col0" class="col_heading level0 col0" >sms</th>
+      <th id="T_87852_level0_col1" class="col_heading level0 col1" >spam_predictions</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <th id="T_eaaa1_level0_row0" class="row_heading level0 row0" >3245</th>
-      <td id="T_eaaa1_row0_col0" class="data row0 col0" >Funny fact Nobody teaches volcanoes 2 erupt, tsunamis 2 arise, hurricanes 2 sway aroundn no 1 teaches hw 2 choose a wife Natural disasters just happens</td>
-      <td id="T_eaaa1_row0_col1" class="data row0 col1" >ham</td>
+      <th id="T_87852_level0_row0" class="row_heading level0 row0" >944</th>
+      <td id="T_87852_row0_col0" class="data row0 col0" >I sent my scores to sophas and i had to do secondary application for a few schools. I think if you are thinking of applying, do a research on cost also. Contact joke ogunrinde, her school is one me the less expensive ones</td>
+      <td id="T_87852_row0_col1" class="data row0 col1" >ham</td>
     </tr>
     <tr>
-      <th id="T_eaaa1_level0_row1" class="row_heading level0 row1" >944</th>
-      <td id="T_eaaa1_row1_col0" class="data row1 col0" >I sent my scores to sophas and i had to do secondary application for a few schools. I think if you are thinking of applying, do a research on cost also. Contact joke ogunrinde, her school is one me the less expensive ones</td>
-      <td id="T_eaaa1_row1_col1" class="data row1 col1" >ham</td>
+      <th id="T_87852_level0_row1" class="row_heading level0 row1" >1044</th>
+      <td id="T_87852_row1_col0" class="data row1 col0" >We know someone who you know that fancies you. Call 09058097218 to find out who. POBox 6, LS15HB 150p</td>
+      <td id="T_87852_row1_col1" class="data row1 col1" >spam</td>
     </tr>
     <tr>
-      <th id="T_eaaa1_level0_row2" class="row_heading level0 row2" >1044</th>
-      <td id="T_eaaa1_row2_col0" class="data row2 col0" >We know someone who you know that fancies you. Call 09058097218 to find out who. POBox 6, LS15HB 150p</td>
-      <td id="T_eaaa1_row2_col1" class="data row2 col1" >spam</td>
-    </tr>
-    <tr>
-      <th id="T_eaaa1_level0_row3" class="row_heading level0 row3" >2484</th>
-      <td id="T_eaaa1_row3_col0" class="data row3 col0" >Only if you promise your getting out as SOON as you can. And you'll text me in the morning to let me know you made it in ok.</td>
-      <td id="T_eaaa1_row3_col1" class="data row3 col1" >ham</td>
+      <th id="T_87852_level0_row2" class="row_heading level0 row2" >2484</th>
+      <td id="T_87852_row2_col0" class="data row2 col0" >Only if you promise your getting out as SOON as you can. And you'll text me in the morning to let me know you made it in ok.</td>
+      <td id="T_87852_row2_col1" class="data row2 col1" >ham</td>
     </tr>
   </tbody>
 </table>
@@ -1986,12 +1977,22 @@ which explains the difference between the two courses.</p>
 </pre></div>
 </div>
 </div>
+<div class="cell_output docutils container">
+<div class="output text_plain highlight-myst-ansi notranslate"><div class="highlight"><pre><span></span>2
+</pre></div>
+</div>
+</div>
 </div>
 <div class="cell docutils container">
 <div class="cell_input docutils container">
 <div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="n">x</span> <span class="o">=</span> <span class="p">[</span><span class="mi">1</span><span class="p">,</span><span class="mi">2</span><span class="p">,</span><span class="mi">3</span><span class="p">]</span>
 <span class="n">x</span><span class="p">[</span><span class="mi">0</span><span class="p">]</span> <span class="o">=</span> <span class="mi">9999</span>
 <span class="n">x</span>
+</pre></div>
+</div>
+</div>
+<div class="cell_output docutils container">
+<div class="output text_plain highlight-myst-ansi notranslate"><div class="highlight"><pre><span></span>[9999, 2, 3]
 </pre></div>
 </div>
 </div>
