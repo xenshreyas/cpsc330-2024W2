@@ -50,7 +50,7 @@ Tutorials for this course will be conducted by TAs, who will guide you through a
 
 - [Mathias Lécuyer](https://mathias.lecuyer.me/), OH: Thursday, 2:00 - 3:00 PM, ICCS 317
 - [Giulia Toti](https://www.gtoti.com/), OH: Tuesday, 2:00 - 3:15 PM, ICCS 231
-- Andrew Roth, OH: Tuesday, 12:30-1:30 PM, ICCS 359
+- Andrew Roth, OH: Tuesday, 12:30-1:30 PM, ICCS 353
 
 ### Course co-ordinator
 - Ancuta (Anca) Barbu (cpsc330-admin@cs.ubc.ca), please reach out to Anca for: admin questions, extensions, academic concessions etc. Include a descriptive subject, your name and student number, and course section so that we can keep track of emails.
