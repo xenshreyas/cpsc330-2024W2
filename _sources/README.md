@@ -12,7 +12,7 @@ The syllabus is available [here](syllabus.md). Please read it carefully to under
 ### Instructors
 - [Mathias Lecuyer](mathias.lecuyer@ubc.ca) (Section 201: Tue Thu 9:30 to 10:50, [SWNG 222](https://learningspaces.ubc.ca/classrooms/swng-222)) (Office Hours, Thu's ICCS 317, 2:00-3:00pm)
 - [Giulia Toti](gtoti@cs.ubc.ca) (Section 202: Tue Thu 3:30 to 4:50, Section 203: Tue Thu 5:00 to 6:20, [MCML 360](https://learningspaces.ubc.ca/classrooms/mcml-360)) (Office Hours, Tue's ICCS 231, 2:00-3:15pm)
-- [Andrew Roth](andrew.roth@ubc.ca) (Section 204: Tue Thu 11:00 to 12:20, [GEOG 212](https://learningspaces.ubc.ca/classrooms/geog-212)) (Office Hours, Tue's ICCS 359, 12:30-1:30pm)
+- [Andrew Roth](andrew.roth@ubc.ca) (Section 204: Tue Thu 11:00 to 12:20, [GEOG 212](https://learningspaces.ubc.ca/classrooms/geog-212)) (Office Hours, Tue's ICCS 353, 12:30-1:30pm)
 ### Course co-ordinator
 - Ancuta (Anca) Barbu (cpsc330-admin@cs.ubc.ca), please reach out to Anca for: admin questions, extensions, academic concessions etc. Include a descriptive subject, your name and student number, and course section so that we can keep track of emails.
 
